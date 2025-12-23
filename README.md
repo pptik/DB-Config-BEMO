@@ -1,3 +1,5 @@
+Aktifkan plugin Postgis dan pgRouting.
+
 Ini adalah skenario umum. Jika sudah memiliki data `rute`, `halte`, dan `halte_urutan`, (generate) data untuk `halte_vertices` dan `rute_edges` secara otomatis menggunakan SQL.
 
 ## Langkah 1: Mengisi Tabel `halte_vertices`
